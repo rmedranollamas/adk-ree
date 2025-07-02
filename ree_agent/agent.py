@@ -8,6 +8,7 @@ from .sub_agents.redata import redata_agent
 
 MODEL = "gemini-2.5-pro"
 
+
 electricity_expert = Agent(
     name="electricity_expert_agent",
     model=MODEL,
@@ -19,5 +20,6 @@ electricity_expert = Agent(
         AgentTool(agent=redata_agent),
     ],
 )
+
 
 root_agent = electricity_expert
