@@ -1,3 +1,4 @@
+"""This module defines the redata_agent."""
 from google.adk import Agent
 
 from . import prompt

@@ -1,3 +1,4 @@
+"""This module defines the main agent for the electricity expert system."""
 from google.adk.agents import Agent
 from google.adk.tools.agent_tool import AgentTool
 

@@ -1,3 +1,4 @@
+"""This module contains the prompt for the redata_agent."""
 REDATA_PROMPT = """
 Your job is to retrieve data from the Red Eléctrica de España (REE) API based on the user's request.
 
