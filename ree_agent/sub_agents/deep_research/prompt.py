@@ -1,3 +1,4 @@
+"""This module contains the prompt for the deep_research_agent."""
 DEEP_RESEARCH_PROMPT = """
 Agent Role: deep_research (Specialized for Electrical Systems & Markets)
 Tool Usage: Exclusively use the Google Search tool.

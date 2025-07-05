@@ -1,3 +1,4 @@
+"""This module provides tools for the redata_agent to interact with the REE API."""
 import logging
 import ssl
 import urllib.request

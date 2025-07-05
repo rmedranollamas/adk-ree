@@ -1,3 +1,4 @@
+"""This module defines the deep_research_agent."""
 from google.adk import Agent
 from google.adk.tools import google_search
 
